@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">BakeryProductApp</string>
+    <string name="remove">remove</string>
+    <string name="product_name">Name</string>
+    <string name="product_description">Description</string>
+    <string name="product_weight">Weight</string>
+    <string name="product_price">Price</string>
+    <string name="product_category">Category</string>
+    <string name="product_image_url">Image URL</string>
+    <string name="accept_btn_text">Create</string>
+    <string name="update">update</string>
+    <string name="update_btn_text">Update</string>
+    <string name="weigt_info">Weight:</string>
+    <string name="price_info">Price:</string>
+    <string name="category_info">Category:</string>
+    <string name="currency_info">euro</string>
+    <string name="grams_info">g</string>
+</resources>
